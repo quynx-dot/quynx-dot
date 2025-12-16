@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **DSA in Java & MERN stack development**
 - 🌱 I’m currently learning **System Design, Data Structures, and Advanced React**
 - 👯 I’m open to **internship opportunities in Web Development / SDE roles**
-- 🧠 I solve problems on **LeetCode, Codeforces, and GeeksforGeeks**
-- 📫 How to reach me: **janhavighanghav@email.com**
+- 🧠 I solve problems on **LeetCode and GeeksforGeeks**
+- 📫 How to reach me: **janhavighanghav2@email.com**
 
 ---
 
